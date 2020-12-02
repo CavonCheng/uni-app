@@ -32,7 +32,7 @@
 |source|String|是|视频源地址，只支持本地文件|
 
 #### MediaContainer.removeTrack(track)
-将音频或视频轨道添加到容器
+将音频或视频轨道从容器中移除
 
 **参数说明**
 
